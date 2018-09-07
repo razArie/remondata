@@ -24,7 +24,7 @@ public class Widget {
 	}
 
 	/**
-	 * Set the widget enable state
+	 * Set the widget enable state and check push in git
 	 * 
 	 * @param enabled
 	 * @return this widget
